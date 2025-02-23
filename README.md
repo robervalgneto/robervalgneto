@@ -1,5 +1,7 @@
 <h3 align="left">Hello World!! My name is José Roberval, I am a Bachelor's student in computer science at Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brazil.</h3>
 
+<img align="center" alt="" src="./src/header-gif.gif">
+
 #
 
 <h3 align="left">GitHub Stats: </h3>
