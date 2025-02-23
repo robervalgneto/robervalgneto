@@ -1,5 +1,7 @@
 <h3 align="left">Hello World!! My name is José Roberval, I am a Bachelor's student in computer science at Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brazil.</h3>
+
 #
+
 <h3 align="left">GitHub Stats: </h3>
 
 <div align="center">
@@ -11,8 +13,8 @@
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:robervalg.neto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]()
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/joseroberval)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/robervalgneto/)
 
 #
 
