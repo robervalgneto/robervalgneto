@@ -1,9 +1,9 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+José+Roberval" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+World+!;My+name+is+José+Roberval" alt="Typing SVG" /></a>
 </div> 
 
-<h3 align="left">[ENG] Hello World!! My name is José Roberval, I am a Bachelor's student in computer science at Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brazil.</h3>
-<h3 align="left">[POT] Olá Mundo!! Meu nome é José Roberval, sou um estudante de Bacharelado em ciência da computação na Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brasil.</h3>
+<h3 align="left">[ENG] My name is José Roberval, I am a Bachelor's student in computer science at Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brazil.</h3>
+<h3 align="left">[POT] Meu nome é José Roberval, sou um estudante de Bacharelado em ciência da computação na Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brasil.</h3>
 
 #
 
