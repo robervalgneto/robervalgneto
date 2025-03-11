@@ -18,7 +18,7 @@
 
 #
 
-<h3 align="left">My Stack: </h3>
+<h3 align="left">My Stack and Tools: </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
