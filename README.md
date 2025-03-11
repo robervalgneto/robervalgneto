@@ -1,4 +1,5 @@
-<h3 align="left">Hello World!! My name is José Roberval, I am a Bachelor's student in computer science at Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brazil.</h3>
+<h3 align="left">[ENG] Hello World!! My name is José Roberval, I am a Bachelor's student in computer science at Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brazil.</h3>
+<h3 align="left">[POT] Olá Mundo!! Meu nome é José Roberval, sou um estudante de Bacharelado em ciência da computação na Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brasil.</h3>
 
 #
 
