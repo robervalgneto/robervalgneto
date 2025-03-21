@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" height="30px" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberry/raspberry.svg" alt="Raspberry" height="30px" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberry/raspberry.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fiiiypuk%2Frpi-icon&psig=AOvVaw052iIXTTmVT5BgRT_Le-zH&ust=1742649297171000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiWw-6gm4wDFQAAAAAdAAAAABAJ)" alt="Raspberry" height="30px" />
   
 
 </div>
