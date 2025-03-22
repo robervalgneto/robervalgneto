@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Hello+World+!;Welcome+to+My+Profile+!" alt="Typing SVG" /></a>
 </div> 
 
-<h3 align="left">[ENG] My name is José Roberval, I am a Bachelor's student in computer science at Universidade Católica de Pernambuco (UNICA). Recife/PE - Brazil.</h3>
+<h3 align="left">[ENG] My name is José Roberval, I am a Bachelor's student in computer science at Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brazil.</h3>
 <h3 align="left">[POT] Meu nome é José Roberval, sou um estudante de Bacharelado em ciência da computação na Universidade Católica de Pernambuco (UNICAP). Recife/PE - Brasil.</h3>
 
 #
@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robervalgneto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robervalgneto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robervalgneto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false%22%20height=%22125%22%20alt=%22languages%20graph"  />
   
 #
   
