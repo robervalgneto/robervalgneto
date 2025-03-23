@@ -23,7 +23,7 @@
 
 #
 
-<h3 align="left">My Stack and Tools: </h3>
+<h3 align="left">My Stack: </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -31,6 +31,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+
+</div>
+
+<h3 align="left">My Tools: </h3>
+
+<div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  alt="Linux" height="30px"   />
   <img width="12" />
