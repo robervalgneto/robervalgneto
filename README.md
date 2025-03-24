@@ -10,8 +10,8 @@
 <h3 align="left">GitHub Stats: </h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robervalgneto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robervalgneto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false%22%20height=%22125%22%20alt=%22languages%20graph" height="125" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robervalgneto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=true" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robervalgneto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=true%22%20height=%22125%22%20alt=%22languages%20graph" height="125" />
 </div> 
 
 #
