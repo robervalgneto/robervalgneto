@@ -20,7 +20,7 @@
 
 [![E-mail](https://img.shields.io/badge/Gmail-539bf5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robervalg.neto@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/joseroberval)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/robervalgneto/)
+[![Instagram](https://img.shields.io/badge/Instagram-539bf5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robervalgneto/)
 
 #
 
