@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![E-mail](https://img.shields.io/badge/Gmail-539bf5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robervalg.neto@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email_institucional-539bf5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jose.00000848856@unicap.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-539bf5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseroberval)
 [![Instagram](https://img.shields.io/badge/Instagram-539bf5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robervalgneto/)
 
