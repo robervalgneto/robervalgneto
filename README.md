@@ -1,3 +1,7 @@
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=100&section=header"/>
+</p>
+
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=539bf5&center=true&vCenter=true&width=435&height=25%&lines=Hello+World+!;Welcome+to+My+Profile+!" alt="Typing SVG" /></a>
 </div> 
@@ -7,7 +11,7 @@
 
 #
 
-<h3 align="left">GitHub Stats: </h3>
+<h3 align="left">Stats: </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=robervalgneto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -25,7 +29,7 @@
 
 #
 
-<h3 align="left">My Stack: </h3>
+<h3 align="left">Stack: </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -39,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"  height="30"/>
 </div>
 
-<h3 align="left">My Tools: </h3>
+<h3 align="left">Tools: </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  alt="Linux" height="30px"   />
@@ -61,7 +65,7 @@
 
 #
 
-<h3 align="left">My Trophies: </h3>
+<h3 align="left">Trophies: </h3>
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=robervalgneto&theme=gitdimmed&no-frame=true&margin-w=0" alt="GitHub Trophies" />
 </div>
@@ -75,7 +79,7 @@
 #
 
 <div align="center">
-<br><p align="centre"><b>Visitors</b></p>  
+<br><p align="centre"><b>visitors:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{robervalgneto}/count.svg" /></p> 
 </div>
 
