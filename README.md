@@ -68,7 +68,7 @@
 #
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robervalgneto&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robervalgneto&radius=16&theme=algolia&area=true&order=5" height="300" alt="graph"  />
 </div>
 
 #
