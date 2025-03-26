@@ -62,13 +62,13 @@
 #
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=robervalgneto&theme=githubdarkdimmed&no-frame=true&margin-w=14" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=robervalgneto&theme=algolia&no-frame=true&margin-w=14" alt="GitHub Trophies" />
 </div>
 
 #
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robervalgneto&radius=16&theme=algolia&area=true&order=5" height="300" alt="graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robervalgneto&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="graph"  />
 </div>
 
 #
