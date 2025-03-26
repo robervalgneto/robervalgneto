@@ -61,8 +61,8 @@
 
 #
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=robervalgneto&theme=githubdarkdimmed&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=robervalgneto&theme=githubdarkdimmed&no-frame=true&margin-w=14" alt="GitHub Trophies" />
 </div>
 
 #
