@@ -78,3 +78,7 @@
 <br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{robervalgneto}/count.svg" /></p> 
 </div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=539bf5&height=100&section=footer"/>
+</p>
