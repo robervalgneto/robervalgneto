@@ -63,7 +63,7 @@
 
 <h3 align="left">My Trophies: </h3>
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=robervalgneto&theme=gitdimmed&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=robervalgneto&theme=gitdimmed&no-frame=true&margin-w=0" alt="GitHub Trophies" />
 </div>
 
 #
