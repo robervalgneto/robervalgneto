@@ -61,8 +61,9 @@
 
 #
 
+<h3 align="left">My Trophies: </h3>
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=robervalgneto&theme=gitdimmed&no-frame=false&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=robervalgneto&theme=gitdimmed&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 #
@@ -73,8 +74,7 @@
 
 #
 
-
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
+<br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{robervalgneto}/count.svg" /></p> 
 </div>
